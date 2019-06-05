@@ -1,0 +1,13 @@
+Resources used for the Data Wrangling OpenStreetMap project:
+
+1. https://www.streetcheck.co.uk/postcode/kt138bt
+2. https://wiki.openstreetmap.org/wiki/Addresses
+3. http://www.stackoverflow.com
+4. https://help.openstreetmap.org/questions/2329/addresses-with-two-house-numbers
+5. https://www.tutorialspoint.com/sqlite/sqlite_create_database.htm
+6. https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
+7. https://www.w3resource.com/mysql/string-functions/mysql-substr-function.php
+8. https://www.geeksforgeeks.org/global-local-variables-python/
+9. http://www.getmapping.com/products/open-data/os-street-view
+10. http://maps.google.co.uk
+11. OpenStreetMap case study from the Udacity Data Wrangling module
